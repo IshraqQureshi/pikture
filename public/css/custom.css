@@ -1,0 +1,9 @@
+@media screen and (max-width: 667px){
+    .table-responsive table {
+        width: 1280px;
+    }
+
+    .row {
+        row-gap: 10px;
+    }
+}
